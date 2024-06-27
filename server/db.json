@@ -1,0 +1,39 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Throwback Hip Bag",
+      "price": 30,
+      "title": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+      "stock": 20,
+      "image": "https://i.pinimg.com/originals/5b/d0/b6/5bd0b627a38e5e32a426f769435a444e.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Lie Lie Bag",
+      "price": 45,
+      "title": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+      "stock": 15,
+      "image": "https://i.pinimg.com/originals/89/69/87/896987d372a13344a0ba9bb2bdfdb403.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Beautiful Handbag",
+      "price": 25,
+      "title": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+      "stock": 10,
+      "image": "https://qualityhandbags.store/wp-content/uploads/2019/08/10150-f196131110b74b6c912b5d2526ccbd1a.jpg"
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "name": "Throwback Hip Bag",
+      "price": 30,
+      "title": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+      "stock": 20,
+      "image": "https://i.pinimg.com/originals/5b/d0/b6/5bd0b627a38e5e32a426f769435a444e.jpg",
+      "quantity": null
+    }
+  ]
+}
